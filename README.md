@@ -25,10 +25,11 @@ Mi objetivo es dar mis primeros pasos formales en el sector IT, aportando mi pen
 
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
-| 🌲 **Bosque Nativo** | Landing page premium para un refugio ecológico. Incluye animaciones cinematográficas, scroll storytelling y fue desarrollada con IA como copiloto. | `Next.js` `TypeScript` `Tailwind` `GSAP` |
-| 🍳 **Epoca** | App móvil para explorar recetas del mundo. Cuenta con modo oscuro, persistencia de favoritos y búsqueda en tiempo real. | `React Native` `Expo` `Zustand` `TanStack Query` |
-| 📝 **POSTX** | Aplicación web para gestión de posts consumiendo una API REST. Interfaz moderna y desplegada en producción. | `React` `Vite` `React Router` `GitHub Pages` |
-| 🐶 **LabMascotas** | Galería interactiva de razas de perros. Utiliza almacenamiento seguro y respuestas táctiles nativas. | `React Native` `Expo` `SecureStore` `Haptics` |
+| 🌲 **[Bosque Nativo](https://github.com/Jonyavila/bosque-nativo-landingpage)** | Landing page premium para un refugio ecológico. Incluye animaciones cinematográficas, scroll storytelling y fue desarrollada con IA como copiloto. | `Next.js` `TypeScript` `Tailwind` `GSAP` |
+| 🍳 **[Epoca](https://github.com/Jonyavila/app-epoca-expo)** | App móvil para explorar recetas del mundo. Cuenta con modo oscuro, persistencia de favoritos y búsqueda en tiempo real. | `React Native` `Expo` `Zustand` `TanStack Query` |
+| 🍊 **[FIZZ](https://github.com/Jonyavila/fizz-landing)** | Landing page vibrante para una marca de soda cítrica. Combina tipografía editorial, gradientes atrevidos y animaciones con scroll (GSAP) en una experiencia web interactiva. | `Next.js` `React` `TypeScript` `Tailwind` `GSAP` |
+| 🐶 **[LabMascotas](https://github.com/Jonyavila/LabMascotas)** | Galería interactiva de razas de perros. Utiliza almacenamiento seguro y respuestas táctiles nativas. | `React Native` `Expo` `SecureStore` `Haptics` |
+| 📝 **[POSTX](https://github.com/Jonyavila/ParcialReact)** | Aplicación web para gestión de posts consumiendo una API REST. Interfaz moderna y desplegada en producción. | `React` `Vite` `React Router` |
 
 ### 🛠️ Stack Tecnológico
 
