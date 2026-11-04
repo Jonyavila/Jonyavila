@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hola, soy Jonathan Avila 👋</h1>
-  <h3>Estudiante de Analista de Sistemas | QA & AI-Assisted Developer | Frontend & Mobile</h3>
+  <h3>Estudiante de Analista de Sistemas | QA & AI-Assisted Developer | Full Stack & Mobile</h3>
   
   <p>
     <a href="https://jonyavila.github.io/portfolio/"><img src="https://img.shields.io/badge/🌐_Mi_Portfolio_Web-000000?style=for-the-badge" alt="Portfolio" /></a>
