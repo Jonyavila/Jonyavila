@@ -1,7 +1,7 @@
 Hola, soy Jonathan Avila 👋
 Estudiante de Analista de Sistemas | QA & AI-Assisted Developer | Frontend & Mobile
 
-🌐 **[Explora mi Portfolio Interactivo aquí](https://jonyavila.github.io/Portfolio/)**
+🌐 **[Explora mi Portfolio Interactivo aquí](https://jonyavila.github.io/portfolio/)**
 
 Soy estudiante avanzado (65%) de Analista de Sistemas en Córdoba, Argentina. Me apasiona la tecnología, la automatización y el desarrollo de software. Actualmente me encuentro construyendo aplicaciones web y móviles utilizando IA como copiloto, y certificándome en QA (Manual y Automation) y Data Analytics.
 
@@ -30,7 +30,7 @@ QA Manual & Testing - XAcademy / Santex
 Workflow Automation - XAcademy / Santex
 
 📫 Conecta conmigo
-🌐 **Portfolio:** [jonyavila.github.io/Portfolio](https://jonyavila.github.io/Portfolio/)
+🌐 **Portfolio:** [jonyavila.github.io/Portfolio](https://jonyavila.github.io/portfolio/)
 💼 LinkedIn: linkedin.com/in/jonathan-avila-7b9979269
 📧 Email: bravojony484@gmail.com
 📍 Ubicación: Córdoba, Argentina
