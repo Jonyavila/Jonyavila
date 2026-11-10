@@ -19,12 +19,14 @@ Mi objetivo es dar mis primeros pasos formales en el sector IT, aportando mi pen
 - 📚 Cursando el 3er año de **Analista de Sistemas** (Institución Cervantes).
 - 🎓 Estudiando **Licenciatura en Gestión Pública** (UNDEF) - 100% a distancia.
 - 🧪 Certificándome en **QA Manual & Automation** (XAcademy / Santex).
+- 🧠 **Desarrollando Open Source:** Creé y mantengo **Architecture Copilot MCP**, un servidor que conecta GitHub Copilot con la arquitectura real de los proyectos.
 - 🤖 Desarrollando proyectos con **React Native, Next.js y TypeScript**, aplicando flujos de trabajo **AI-Assisted** (ChatGPT, Claude) para acelerar el desarrollo y refactorizar código.
 
 ### 💻 Proyectos Destacados
 
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
+| 🧠 **[Architecture Copilot MCP](https://github.com/Jonyavila/intent-graph-mcp)** | **Servidor MCP open source** que da a las IAs (como GitHub Copilot) conciencia arquitectónica. Analiza el código, construye grafos de dependencias y genera andamiajes deterministas para evitar errores estructurales. | `Python` `Tree-sitter` `NetworkX` `MCP` |
 | 🌲 **[Bosque Nativo](https://github.com/Jonyavila/bosque-nativo-landingpage)** | Landing page premium para un refugio ecológico. Incluye animaciones cinematográficas, scroll storytelling y fue desarrollada con IA como copiloto. | `Next.js` `TypeScript` `Tailwind` `GSAP` |
 | 🍳 **[Epoca](https://github.com/Jonyavila/app-epoca-expo)** | App móvil para explorar recetas del mundo. Cuenta con modo oscuro, persistencia de favoritos y búsqueda en tiempo real. | `React Native` `Expo` `Zustand` `TanStack Query` |
 | 🍊 **[FIZZ](https://github.com/Jonyavila/fizz-landing)** | Landing page vibrante para una marca de soda cítrica. Combina tipografía editorial, gradientes atrevidos y animaciones con scroll (GSAP) en una experiencia web interactiva. | `Next.js` `React` `TypeScript` `Tailwind` `GSAP` |
@@ -48,10 +50,12 @@ Mi objetivo es dar mis primeros pasos formales en el sector IT, aportando mi pen
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**Backend & Bases de Datos:**
+**AI & Backend Tools:**
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Tree-sitter](https://img.shields.io/badge/Tree--sitter-2F9461?style=for-the-badge&logo=treehouse&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 **Herramientas:**
