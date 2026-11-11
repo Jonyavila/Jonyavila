@@ -27,6 +27,7 @@ Mi objetivo es dar mis primeros pasos formales en el sector IT, aportando mi pen
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
 | 🧠 **[Architecture Copilot MCP](https://github.com/Jonyavila/intent-graph-mcp)** | **Servidor MCP open source** que da a las IAs (como GitHub Copilot) conciencia arquitectónica. Analiza el código, construye grafos de dependencias y genera andamiajes deterministas para evitar errores estructurales. | `Python` `Tree-sitter` `NetworkX` `MCP` |
+| 🔐 **[Aletheia](https://github.com/Jonyavila/aletheia)** | PoC local-first para verificar la autenticidad e integridad de imágenes digitales mediante firmas criptográficas Ed25519 y hashes SHA-256. Desarrollado con Rust y WebAssembly. | `Rust` `WebAssembly` `Ed25519` `SHA-256` |
 | 🌲 **[Bosque Nativo](https://github.com/Jonyavila/bosque-nativo-landingpage)** | Landing page premium para un refugio ecológico. Incluye animaciones cinematográficas, scroll storytelling y fue desarrollada con IA como copiloto. | `Next.js` `TypeScript` `Tailwind` `GSAP` |
 | 🍳 **[Epoca](https://github.com/Jonyavila/app-epoca-expo)** | App móvil para explorar recetas del mundo. Cuenta con modo oscuro, persistencia de favoritos y búsqueda en tiempo real. | `React Native` `Expo` `Zustand` `TanStack Query` |
 | 🍊 **[FIZZ](https://github.com/Jonyavila/fizz-landing)** | Landing page vibrante para una marca de soda cítrica. Combina tipografía editorial, gradientes atrevidos y animaciones con scroll (GSAP) en una experiencia web interactiva. | `Next.js` `React` `TypeScript` `Tailwind` `GSAP` |
@@ -36,6 +37,7 @@ Mi objetivo es dar mis primeros pasos formales en el sector IT, aportando mi pen
 ### 🛠️ Stack Tecnológico
 
 **Frontend & Core:**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -43,15 +45,19 @@ Mi objetivo es dar mis primeros pasos formales en el sector IT, aportando mi pen
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
 **Mobile:**
+
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
 
 **QA & Testing:**
+
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **AI & Backend Tools:**
+
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Tree-sitter](https://img.shields.io/badge/Tree--sitter-2F9461?style=for-the-badge&logo=treehouse&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -59,6 +65,7 @@ Mi objetivo es dar mis primeros pasos formales en el sector IT, aportando mi pen
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 **Herramientas:**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
